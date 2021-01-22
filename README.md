@@ -9,6 +9,6 @@
 - 完全不会设计只好自己乱摸页面
 - 努力成为各种项目的 Contributor 中~
 
-[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html)](https://github.com/Cattttttttt/github-readme-stats)
+[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html)](https://github.com/Cattttttttt)
 
 [![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
