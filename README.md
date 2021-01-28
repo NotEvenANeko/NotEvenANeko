@@ -11,4 +11,6 @@
 
 [![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html)](https://github.com/Cattttttttt)
 
+[![Meow Stats~](https://github-readme-stats.vercel.app/api/wakatime?username=FragileNeko)](https://github.com/Cattttttttt)
+
 [![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
