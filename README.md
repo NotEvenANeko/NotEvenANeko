@@ -8,6 +8,7 @@
 - 前端苦手, `C with STL` & `AnyScipt` 使用者
 - 完全不会设计只好自己乱摸页面
 - 努力成为各种项目的 Contributor 中~
+- 摸大鱼真爽
 
 [![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html)](https://github.com/Cattttttttt)
 
