@@ -9,6 +9,7 @@
 - 完全不会设计只好自己乱摸页面
 - 努力成为各种项目的 Contributor 中~
 - 摸大鱼真爽
+- ~~Can I set my default branch name to slave?~~
 
 [![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html)](https://github.com/Cattttttttt)
 
