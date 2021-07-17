@@ -7,7 +7,6 @@
 - OI 退役以后开始学前端相关
 - 前端苦手, `C with STL` & `AnyScipt` 使用者
 - 完全不会设计只好自己乱摸页面
-- 努力成为各种项目的 Contributor 中~
 - 摸大鱼真爽
 - ~~Can I set my default branch name to slave?~~
 
