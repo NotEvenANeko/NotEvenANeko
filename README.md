@@ -9,9 +9,8 @@
 - 完全不会设计只好自己乱摸页面
 - 摸大鱼真爽
 - ~~Can I set my default branch name to slave?~~
+- `Happy new year!` 🎉
 
 [![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Cattttttttt&hide=css,html,assembly)](https://github.com/Cattttttttt)
 
 [![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
-
-## 我就烂 哈哈
