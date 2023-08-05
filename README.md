@@ -9,7 +9,7 @@ What is [猫](https://en.wikipedia.org/wiki/Cat)
 
 ---
 
-<div>
+<span>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=NotEvenANeko&show_icons=true&theme=dark"
@@ -21,8 +21,8 @@ What is [猫](https://en.wikipedia.org/wiki/Cat)
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=NotEvenANeko&show_icons=true"
-      height="200"
-      width="500"
+      height="180"
+      width="450"
       align="center"
       alt="NotEvenANeko's GitHub statistics"
     />
@@ -39,12 +39,12 @@ What is [猫](https://en.wikipedia.org/wiki/Cat)
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotEvenANeko&layout=compact"
-      height="200"
+      height="180"
       align="center"
       alt="NotEvenANeko's most used languages (not accurate)"
     />
   </picture>
-</div>
+</span>
 
 ---
 
