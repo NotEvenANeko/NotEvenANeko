@@ -84,7 +84,7 @@ What I perfer:
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-Misc:
+Links:
 
-![Steam](https://img.shields.io/badge/steam%20friend%20code%20302597348-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam%20friend%20code%20302597348-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/NotEvenANeko/)
 [![Twitter](https://img.shields.io/badge/Twitter%20notevenaneko-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NotEvenANeko)
